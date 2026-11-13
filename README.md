@@ -1,17 +1,15 @@
 <h1 align="center">
   <a target="_blank">
-    <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Earth.gif" width="24px" style="max-width:100%;">
   </a>
   ¡𝐇𝐨𝐥𝐚, <𝚌𝚘𝚍𝚎𝚛𝚜/>!, soy xntte 🥠 
   <a target="_blank">
-    <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Hi.gif" width="40px" />
   </a>
 </h1>
 
 <br/>
 <br/>
 <a target="_blank">
-  <img align="right" height="250" width="400" alt="GIF" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/code.gif">
+  <img align='right' src='https://github.com/Rishit-dagli/Rishit-dagli/blob/master/images/octocat-anime.gif' width='150"'>
 </a>
 
 Soy estudiante de Ingeniería Informática en Santo Tomás Concepción, actualmente en tercer año, y un programador apasionado al que le encanta codear. / *I am an IT Engineering student at Santo Tomás Concepción, currently in my third year, and a passionate programmer who loves to code.*
